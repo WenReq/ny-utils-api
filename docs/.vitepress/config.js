@@ -2,8 +2,8 @@
  * @Author: wenreq 294491328@qq.com
  * @Date: 2022-11-13 21:28:57
  * @LastEditors: wenreq 294491328@qq.com
- * @LastEditTime: 2022-11-13 22:10:25
- * @FilePath: /ny-utils-api/docs/.vitepress/config.js
+ * @LastEditTime: 2022-11-14 09:48:03
+ * @FilePath: \ny-utils-api\docs\.vitepress\config.js
  * @Description:
  *
  * Copyright (c) 2022 by wenreq 294491328@qq.com, All Rights Reserved.
@@ -21,6 +21,10 @@ module.exports = {
 
   // 主题配置
   themeConfig: {
+    docFooter: {
+      prev: "前一页",
+      next: "下一页",
+    },
     socialLinks: [
       //右上角图标和链接，icon 可用svg 配置
       {
