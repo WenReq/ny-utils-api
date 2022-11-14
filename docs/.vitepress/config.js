@@ -2,8 +2,8 @@
  * @Author: wenreq 294491328@qq.com
  * @Date: 2022-11-13 21:28:57
  * @LastEditors: wenreq 294491328@qq.com
- * @LastEditTime: 2022-11-14 09:48:03
- * @FilePath: \ny-utils-api\docs\.vitepress\config.js
+ * @LastEditTime: 2022-11-14 21:48:15
+ * @FilePath: /ny-utils-api/docs/.vitepress/config.js
  * @Description:
  *
  * Copyright (c) 2022 by wenreq 294491328@qq.com, All Rights Reserved.
@@ -36,8 +36,8 @@ module.exports = {
     nav: [
       //右侧导航
       { text: "首页", link: "/" },
-      { text: "项目简介", link: "/page/index" },
-      { text: "API 文档", link: "/doc/index" },
+      { text: "项目简介", link: "/page/index", activeMatch: "/page/" },
+      { text: "API 文档", link: "/doc/index", activeMatch: "/doc/" },
     ],
     // 侧边导航
     sidebar: [

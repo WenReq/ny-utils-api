@@ -7,11 +7,11 @@ yarn install
 ## dev
 
 ```sh
-yarn docs:serve
+yarn docs:dev
 ```
 
 ## build
 
 ```sh
-yarn build:serve
+yarn docs:build
 ```
