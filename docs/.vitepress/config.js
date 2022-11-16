@@ -2,7 +2,7 @@
  * @Author: wenreq 294491328@qq.com
  * @Date: 2022-11-15 09:21:08
  * @LastEditors: wenreq 294491328@qq.com
- * @LastEditTime: 2022-11-16 16:37:46
+ * @LastEditTime: 2022-11-16 17:53:41
  * @FilePath: \ny-utils-api\docs\.vitepress\config.js
  * @Description:
  *
@@ -11,7 +11,7 @@
 module.exports = {
   title: "ny-utils API文档",
   description: "鼐云前端函数工具库 API 文档",
-  base: "/",
+  base: "/ny",
   markdown: {
     theme: "material-palenight", // md主题
     lineNumbers: true, // md 加行号

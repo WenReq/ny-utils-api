@@ -2,7 +2,7 @@
   "name": "apiDoc",
   "version": "1.0.0",
   "description": "鼐云前端函数工具库文档",
-  "main": "index.js",
+  "main": "index",
   "author": "wen",
   "license": "MIT",
   "scripts": {
