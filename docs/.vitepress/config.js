@@ -1,9 +1,9 @@
 /*
  * @Author: wenreq 294491328@qq.com
- * @Date: 2022-11-13 21:28:57
+ * @Date: 2022-11-15 09:21:08
  * @LastEditors: wenreq 294491328@qq.com
- * @LastEditTime: 2022-11-14 21:48:15
- * @FilePath: /ny-utils-api/docs/.vitepress/config.js
+ * @LastEditTime: 2022-11-16 16:37:46
+ * @FilePath: \ny-utils-api\docs\.vitepress\config.js
  * @Description:
  *
  * Copyright (c) 2022 by wenreq 294491328@qq.com, All Rights Reserved.
@@ -44,11 +44,13 @@ module.exports = {
       {
         text: "项目简介",
         items: [
-          { text: "为什么要写这个类库", link: "/page/why" },
-          { text: "一套代码对多环境的支持", link: "/page/types" },
-          { text: "Rollup 的配置", link: "/page/config" },
-          { text: "入口文件和模块的文件", link: "/page/files" },
-          { text: "一些后续工作的补充", link: "/page/after" },
+          { text: "1. 为什么要写这个类库", link: "/page/why" },
+          {
+            text: "2. 一套代码对多环境的支持和 Rollup 的配置",
+            link: "/page/types",
+          },
+          { text: "3. library 函数部分", link: "/page/files" },
+          { text: "4. 一些后续工作的补充", link: "/page/after" },
         ],
       },
       {
@@ -59,6 +61,18 @@ module.exports = {
           { text: "Cookie", link: "/doc/Cookie" },
           { text: "Device", link: "/doc/Device" },
           { text: "Dom", link: "/doc/Dom" },
+          { text: "Function", link: "/doc/Function" },
+          { text: "Keycode", link: "/doc/Keycode" },
+          { text: "Number", link: "/doc/Number" },
+          { text: "Object", link: "/doc/Object" },
+          { text: "Random", link: "/doc/Random" },
+          { text: "Regexp", link: "/doc/Regexp" },
+          { text: "Screen", link: "/doc/Screen" },
+          { text: "Storage", link: "/doc/Storage" },
+          { text: "String", link: "/doc/String" },
+          { text: "Support", link: "/doc/Support" },
+          { text: "Time", link: "/doc/Time" },
+          { text: "Url", link: "/doc/Url" },
         ],
       },
     ],

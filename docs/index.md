@@ -7,7 +7,7 @@ description: 鼐云函数库/Rollup/ESM/Tree-Shaking
 hero:
   name: ny-utils 🎉
   text: 鼐云前端函数库
-  tagline: 使用 Rollup 构建的支持多模式（UMD、CJ、UMD）环境的 JavaScript 库。
+  tagline: 使用 Rollup 构建的支持多模式（UMD、CJS、UMD）环境的 JavaScript 库。
   actions:
     - theme: brand
       text: 开始
