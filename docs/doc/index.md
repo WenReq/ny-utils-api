@@ -10,6 +10,7 @@ lang: zh-CN
 - [Cookie](./Cookie.md)
 - [Device](./Device.md)
 - [Dom](./Dom.md)
+- [Filter](./Filter.md)
 - [Function](./Function.md)
 - [Keycode](./Keycode.md)
 - [Number](./Number.md)

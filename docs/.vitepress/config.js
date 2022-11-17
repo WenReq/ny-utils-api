@@ -2,7 +2,7 @@
  * @Author: wenreq 294491328@qq.com
  * @Date: 2022-11-15 09:21:08
  * @LastEditors: wenreq 294491328@qq.com
- * @LastEditTime: 2022-11-16 17:53:41
+ * @LastEditTime: 2022-11-17 09:09:36
  * @FilePath: \ny-utils-api\docs\.vitepress\config.js
  * @Description:
  *
@@ -61,6 +61,7 @@ module.exports = {
           { text: "Cookie", link: "/doc/Cookie" },
           { text: "Device", link: "/doc/Device" },
           { text: "Dom", link: "/doc/Dom" },
+          { text: "Filter", link: "/doc/Filter" },
           { text: "Function", link: "/doc/Function" },
           { text: "Keycode", link: "/doc/Keycode" },
           { text: "Number", link: "/doc/Number" },
